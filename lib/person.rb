@@ -9,12 +9,12 @@ class Person
  end 
 
 
- def name=(person_name)
+ def job=(person_job)
    
-   @name = person_name
+   @job = person_job
  end
  
- def name
-   @name
+ def job
+   @job
  end 
 end
